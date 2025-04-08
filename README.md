@@ -2,7 +2,7 @@
 
 A clean weather app showing current conditions and 5-day forecasts. Features city search, theme switching, and recent search history.
 
-**Live Demo:** [weather-app.example.com](https://weather-app.example.com)
+**Live Demo:** [weatherCast](https://weathercasst.netlify.app)
 
 ## Features
 
@@ -15,7 +15,7 @@ A clean weather app showing current conditions and 5-day forecasts. Features cit
 ## Setup
 
 1. Get API key from OpenWeatherMap
-2. Clone repo: `git clone [repo-url]`
+2. Clone repo: `git clone`
 3. Install: `npm install`
 4. Add API key to `.env`
 5. Run: `npm start`
@@ -27,4 +27,4 @@ A clean weather app showing current conditions and 5-day forecasts. Features cit
 - OpenWeatherMap API
 - React Icons
 
-MIT Licensed. Free to use and modify.
+
